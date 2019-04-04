@@ -15,7 +15,7 @@ Learn everything you need to about the subject of this `Project`.
 
 ## Topics
 ```
-[ ] 1. A Quick Healthcheck
+[x] 1. A Quick Healthcheck
 [ ] 2. Monitoring Your App
 [ ] 3. Looking for Code Smells
 [ ] 4. Securing Your App and its dependencies
